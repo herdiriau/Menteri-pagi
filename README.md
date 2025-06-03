@@ -1,2 +1,1 @@
-# Menteri-pagi
-Sejuk
+# https://herdiriau.github.io/Menteri-pagi/
